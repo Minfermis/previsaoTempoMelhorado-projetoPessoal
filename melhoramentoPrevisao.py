@@ -12,7 +12,7 @@ import shutil
 from win32com.client import Dispatch
 
 def get_weather(city):
-    API_key = "00bf3dcc830277391166d8ef7a6da84f"
+    API_key = "Coloque sua chave APIkey aqui!" # (https://openweathermap.org/) Entrando nesse site e craindo uma conta você consegue uma chaveKEY
     url = f"http://api.openweathermap.org/data/2.5/weather?q={city}&appid={API_key}&units=metric"
     res = requests.get(url)
 
