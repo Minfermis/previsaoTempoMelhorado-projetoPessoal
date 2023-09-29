@@ -32,11 +32,14 @@ Desenvolver este código não foi fácil! Eu tive que trabalhar duro e fazer vá
 
 ### Documentação em Vídeo
 
-Além dos materiais escritos, inclui dois vídeos para tornar o projeto ainda mais acessível:
-
-- **Vídeo do Código Funcionando**: Este vídeo mostra meu código em ação de forma clara, demonstrando como o aplicativo de Previsão do Tempo opera.
+Além dos materiais escritos, inclui um vídeos para tornar o projeto ainda mais acessível:
 
 - **Teste Automatizado com Power Automate**: No segundo vídeo, experimentei meu aplicativo com o modo automático do Power Automate. Isso me ajudou a comparar a previsão de tempo do aplicativo com resultados em tempo real da internet, destacando a precisão do projeto (Aonde houve muitos erros também).
+https://github.com/Minfermis/previsaoTempoMelhorado-projetoPessoal/assets/133699469/825fa9d7-c26d-4dfc-a98a-31ee23ecf02f
+
+**Esse é o processo do Power Automate** testando o app e comparando o resultado com o da Internert. 
+![Fluxo do power automate](https://github.com/Minfermis/previsaoTempoMelhorado-projetoPessoal/blob/main/Fluxoframa%20e%20video%20Teste/fluxo%20do%20robo%20testando%20app.png)
+
 
 ### Fluxograma
 
